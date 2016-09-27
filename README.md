@@ -4,7 +4,7 @@ Solución del ejercicio Enterprise’ warp-drive management software
 * Autor: César Augusto Betancurth R.
 * Correo: cesaraugusto18@gmail.com
 * Fecha: 22/09/2016
-*
+
 * Gestor de Flujo de Plasma 
 * Realizado para: Provedatos S.A.
 
