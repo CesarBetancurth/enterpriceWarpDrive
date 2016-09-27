@@ -1,14 +1,13 @@
 # enterpriceWarpDrive
 Solución del ejercicio Enterprise’ warp-drive management software
 
-/**
 * Autor: César Augusto Betancurth R.
 * Correo: cesaraugusto18@gmail.com
 * Fecha: 22/09/2016
 *
 * Gestor de Flujo de Plasma 
 * Realizado para: Provedatos S.A.
-*/
+
 
 El Gestor de Flujo de Plasma se diseñó para resolver el caso de  "Enterprise’ warp-drive management software" con el fin de permitir calcular el flujo de funcionamiento de cada inyector para un porcentaje de la velocidad de la luz deseado, maximizando el tiempo de funcionamiento en una situación de daño.
 
